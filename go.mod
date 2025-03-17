@@ -1,4 +1,4 @@
-module btils
+module github.com/41Baloo/btils
 
 go 1.23.4
 
